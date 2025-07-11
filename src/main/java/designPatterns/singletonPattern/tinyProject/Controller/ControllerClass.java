@@ -1,11 +1,11 @@
-package designPattern.SingletonClass.tinyProject.Controller;
+package designPatterns.singletonPattern.tinyProject.Controller;
 
 import java.util.Hashtable;
 import java.util.List;
 
 import javax.management.InstanceAlreadyExistsException;
 
-import designPattern.SingletonClass.tinyProject.service.ServiceClass;
+import designPatterns.singletonPattern.tinyProject.service.ServiceClass;
 
 public class ControllerClass {
 	public static void main(String[] args) throws InstanceAlreadyExistsException {

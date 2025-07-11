@@ -1,4 +1,4 @@
-package designPattern.SingletonClass.tinyProject.dao;
+package designPatterns.singletonPattern.tinyProject.dao;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,11 +1,11 @@
-package designPattern.SingletonClass.tinyProject.service;
+package designPatterns.singletonPattern.tinyProject.service;
 
 import java.util.Hashtable;
 import java.util.List;
 
 import javax.management.InstanceAlreadyExistsException;
 
-import designPattern.SingletonClass.tinyProject.dao.daoClass;
+import designPatterns.singletonPattern.tinyProject.dao.daoClass;
 
 public class ServiceClass  {
 	private static ServiceClass SERVICE;
